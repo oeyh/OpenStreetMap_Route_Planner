@@ -7,3 +7,5 @@ build/
 bin/
 lib/
 .DS_Store
+build/
+io2d/
